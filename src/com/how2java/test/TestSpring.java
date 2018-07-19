@@ -4,7 +4,7 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
  
 import com.how2java.service.ProductService;
-  
+ 
 public class TestSpring {
   
     public static void main(String[] args) {
